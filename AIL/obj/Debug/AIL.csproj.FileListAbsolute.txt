@@ -1,0 +1,15 @@
+C:\Users\amirivojdan\source\repos\AIL\AIL\bin\Debug\AIL.exe.config
+C:\Users\amirivojdan\source\repos\AIL\AIL\bin\Debug\AIL.exe
+C:\Users\amirivojdan\source\repos\AIL\AIL\bin\Debug\AIL.pdb
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\AIL.csprojAssemblyReference.cache
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\MainWindow.g.cs
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\App.g.cs
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\AIL_MarkupCompile.cache
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\AIL_MarkupCompile.lref
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\MainWindow.baml
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\AIL.g.resources
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\AIL.Properties.Resources.resources
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\AIL.csproj.GenerateResource.cache
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\AIL.csproj.CoreCompileInputs.cache
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\AIL.exe
+C:\Users\amirivojdan\source\repos\AIL\AIL\obj\Debug\AIL.pdb
